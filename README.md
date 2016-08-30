@@ -1,2 +1,2 @@
-# qinfinite
-qinfinite
+# qmutiplyinput
+jquery plugin
